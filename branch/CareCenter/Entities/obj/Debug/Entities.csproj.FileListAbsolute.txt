@@ -1,0 +1,4 @@
+C:\Users\Jacek\Documents\GitHub\carecenter\branch\CareCenter\Entities\bin\Debug\Entities.dll
+C:\Users\Jacek\Documents\GitHub\carecenter\branch\CareCenter\Entities\bin\Debug\Entities.pdb
+C:\Users\Jacek\Documents\GitHub\carecenter\branch\CareCenter\Entities\obj\Debug\Entities.dll
+C:\Users\Jacek\Documents\GitHub\carecenter\branch\CareCenter\Entities\obj\Debug\Entities.pdb

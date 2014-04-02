@@ -1,0 +1,10 @@
+C:\Users\Jacek\Documents\GitHub\carecenter\branch\CareCenter\ServiceHost\bin\Debug\ServiceHost.exe.config
+C:\Users\Jacek\Documents\GitHub\carecenter\branch\CareCenter\ServiceHost\bin\Debug\ServiceHost.exe
+C:\Users\Jacek\Documents\GitHub\carecenter\branch\CareCenter\ServiceHost\bin\Debug\ServiceHost.pdb
+C:\Users\Jacek\Documents\GitHub\carecenter\branch\CareCenter\ServiceHost\bin\Debug\CareCenterRestServices.dll
+C:\Users\Jacek\Documents\GitHub\carecenter\branch\CareCenter\ServiceHost\bin\Debug\Entities.dll
+C:\Users\Jacek\Documents\GitHub\carecenter\branch\CareCenter\ServiceHost\bin\Debug\CareCenterRestServices.pdb
+C:\Users\Jacek\Documents\GitHub\carecenter\branch\CareCenter\ServiceHost\bin\Debug\Entities.pdb
+C:\Users\Jacek\Documents\GitHub\carecenter\branch\CareCenter\ServiceHost\obj\Debug\ServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\Jacek\Documents\GitHub\carecenter\branch\CareCenter\ServiceHost\obj\Debug\ServiceHost.exe
+C:\Users\Jacek\Documents\GitHub\carecenter\branch\CareCenter\ServiceHost\obj\Debug\ServiceHost.pdb

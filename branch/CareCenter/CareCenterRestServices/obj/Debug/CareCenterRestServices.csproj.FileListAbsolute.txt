@@ -1,0 +1,7 @@
+C:\Users\Jacek\Documents\GitHub\carecenter\branch\CareCenter\CareCenterRestServices\bin\CareCenterRestServices.dll
+C:\Users\Jacek\Documents\GitHub\carecenter\branch\CareCenter\CareCenterRestServices\bin\CareCenterRestServices.pdb
+C:\Users\Jacek\Documents\GitHub\carecenter\branch\CareCenter\CareCenterRestServices\bin\Entities.dll
+C:\Users\Jacek\Documents\GitHub\carecenter\branch\CareCenter\CareCenterRestServices\bin\Entities.pdb
+C:\Users\Jacek\Documents\GitHub\carecenter\branch\CareCenter\CareCenterRestServices\obj\Debug\CareCenterRestServices.csprojResolveAssemblyReference.cache
+C:\Users\Jacek\Documents\GitHub\carecenter\branch\CareCenter\CareCenterRestServices\obj\Debug\CareCenterRestServices.dll
+C:\Users\Jacek\Documents\GitHub\carecenter\branch\CareCenter\CareCenterRestServices\obj\Debug\CareCenterRestServices.pdb
